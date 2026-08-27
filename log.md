@@ -18,5 +18,28 @@
 - Nothing new today honestly! What was done in day 1 was ran over into day 2
 
 - Next: 
--Im starting the course tommorrow 
+-Im starting the course tommorrow
+
+### 26 August 2026
+
+- Did: 
+- I followed up the Python for Everybody its a difficult course but will make it through it! I also joined a call with Mr. Ulrich for a debrief
+
+- Stuck on: 
+- Understanding the course as I go to reach variables when constants habe already become too hard for me
+
+- Next: 
+-Installing the game engine
+
+### 27 August 2026
+
+- Did: 
+- I installed the game engine and created the week1 snake folder and also did the test window that was in the document
+
+- Stuck on: 
+- The installing of the game engine pip pyhton was hard for me because apparently the python I had was to new and there was some modules missing that help the co-exist or run together
+
+- Next: 
+-Im  going to follow Tech with Tim snake tutorial and build the game
+
 
