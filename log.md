@@ -42,4 +42,25 @@
 - Next: 
 -Im  going to follow Tech with Tim snake tutorial and build the game
 
+### 28 August 2026
+
+- Did: 
+- Built Snake game step by step  set up pygame window and followed RGB , snake movement with arrow keys, food placement.
+
+- Stuck on: 
+- BLOCK not defined error (was missing from code), TypeError on snake_dir (had double brackets), pygame not found (was running on Python 3.14 instead of 3.12).
+
+- Next: 
+-Add collision detection and food eating logic.
+
+### 29 August 2026
+
+- Did: 
+- Added wall collision, self collision, and food collision — snake now dies on impact and eats food to grow. Score tracking added.
+
+- Stuck on: 
+- Snake was passing through food and walls with no game end — fixed by replacing the move block with proper collision checks and I also joined a call with Mr. Ulrich 
+
+- Next: 
+-Start Week 2 — sign up for CyLab Security Academy and read the CTF Primer.
 
